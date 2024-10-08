@@ -1,4 +1,10 @@
 
+Welcome to my GitHub profile!  
+I'm always learning, building new projects, and exploring new technologies.  
+Feel free to check out my repositories and connect with me!
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+<br>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
