@@ -19,7 +19,7 @@ Feel free to check out my repositories and connect with me!
 - :school: I graduated from the Faculty of Business, BIS Department, Alexandria University.
 - :computer: I have experience in programming and development.
 - ✍🏻 I love using Software as a solution for every Problem
-- 🤓I'm Always learning new things
+- 🤓 I'm Always learning new things
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.).
 - :boom: You can visit [MY WEBSITE](https:).
 <br>
