@@ -39,8 +39,3 @@ I'm always interested in connecting with fellow developers and professionals. Fe
 - **Tools**: [Visual Studio Code, Cmake, Putty & WinSCP, Cisco Packet Tracer]
 
 Thank you for visiting my profile. If you have any questions or would like to collaborate, feel free to reach out. Happy coding!
-
-<!---
-ahmed-elgihamy/ahmed-elgihamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
