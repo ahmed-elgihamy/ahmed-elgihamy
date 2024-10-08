@@ -12,8 +12,8 @@
 
 
 <br><br>
-- 👨‍💻 I'm Software Development Engineer 
-- :school:👨‍💻 I graduated from the Faculty of Business, BIS Department, Alexandria University.
+- 👨‍💻 I'm Software Engineer 
+- :school: I graduated from the Faculty of Business, BIS Department, Alexandria University.
 - :computer: I have experience in programming and development.
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
