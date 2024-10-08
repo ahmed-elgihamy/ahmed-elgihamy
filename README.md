@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I'm always learning, building new projects, and exploring new technologies.  
 Feel free to check out my repositories and connect with me!
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=700&lines= I'm%20Ahmed+Mahmoud%20 a%20Software+Engineer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=700&lines= I'm+a%20Ahmed+Mahmoud%20 a%20Software+Engineer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
 </p>
 
 
