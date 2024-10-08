@@ -65,7 +65,7 @@
   </a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
+### <img src="https://github.com/ahmed-elgihamy/ahmed-elgihamy/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -86,7 +86,7 @@
 </p>
 
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
+ ### <img src="https://github.com/ahmed-elgihamy/ahmed-elgihamy/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
