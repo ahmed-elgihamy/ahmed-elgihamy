@@ -1,108 +1,44 @@
-<div align=center>
-  <a href="https://youssef-hamed.vercel.app" target="_blank">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&weight=600&size=21&pause=300&color=3479DC&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=300&lines=I'm+Youssef+Hamed;Computer+Engineering+Graduate;Expert+Frontend+Dev;----------;Passionate+Nextjs+%26+Reactjs+Developer;----------;Dedicated+to+crafting;delightful+%26+responsive+web+experiences;----------;On+my+way+to+become+a+MERN+stack+Dev" alt="Youssef Hamed - Nextjs & Reactjs Frontend Dev" 
-    />
-  </a>
+<div align="center">
+  <img src="work-computer.gif" alt="Alt Text" width="1000" height="300"/>
 </div>
 
-<div align=center style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
-  <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yousiefhamed&show_icons=true&theme=transparent&rank_icon=github" />
-  </a>
-  <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousiefhamed&layout=pie&theme=transparent" />
-  </a>
-</div>
+# Hello, I'm Osama!
 
-<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
-<br />
-<br />
+Welcome to my GitHub profile! I'm passionate about computers. Here, you'll find a collection of my projects and contributions to Digital Design, AI, Robotics and Computer Vision. Feel free to explore and get inspired!
+## About Me
 
-<h2 align="center">🛠️ TECH STACKS</h2>
+- 🌍 **Location**: Jeddah, Saudi Arabia
+- 💼 **Profession**: Electrical & Computer Engineering
+- 🎓 **Education**: King Abdulaziz University
+- 💡 **Interests**: Digital Design, AI, Robotics(ROS) and Computer Vision
 
-<!--Languages and Tools Section-->
-<div align=center style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center">
-  <figure style="max-width: 500px">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_White.gif">
-      <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-    </picture>
-  </figure>
-  <div>
-    <h3 align="left">Current Learning</h3>
-    <ul align="left">
-      <li>Deepening my knowledge in Nodejs & Expressjs.</li>
-      <li>Exploring advanced React.js patterns and state management techniques.</li>
-      <li>Improving my skills in cloud computing with AWS and Azure.</li>
-    </ul>
-  </div>
-</div>
+## Projects
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+Here are a few highlighted projects I've worked on:
 
-<h2 align="center">💻 My Projects</h2>
+[**SDP**](https://github.com/witcherxz/SDP): Indoor localization and navigation system for autonomous robots.
 
-<div align=center style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
-  <a href="https://github.com/yousiefhamed/foodify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=foodify&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/foodify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=foodify&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/foodify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=foodify&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/foodify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=foodify&theme=transparent" />
-  </a>
-  <a href="https://github.com/yousiefhamed/foodify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yousiefhamed&repo=foodify&theme=transparent" />
-  </a>
-</div>
+[**SqueezNet**](https://github.com/osamaalsahafi/Appling-transfer-learning-to-SqueezeNet-on-COVID-10-chest-XRAY-dataset): Appling-transfer-learning.
 
-<br />
+For a complete list of my projects, please visit [my portfolio website](https://github.com/osamaalsahafi?tab=repositories).
 
-<h2 align=center>🤝 Let's Connect</h2>
+## Connect with Me
 
-<p align=center style="max-width: 800px; margin: 0 auto">I'm always excited to collaborate on innovative projects and explore new opportunities. Let's connect and discuss how we can work together to create something amazing! Reach out to me on any social media channel:</p>
+I'm always interested in connecting with fellow developers and professionals. Feel free to reach out to me through the following channels:
 
-<br />
+- **Linkedin**: [osama-alsahafi](https://www.linkedin.com/in/osama-alsahafi/)
+- **Twitter**: [@iios_x](https://twitter.com/iios_x)
+- **Email**: [alsahafiosama23@gmail.com](alsahafiosama23@gmail.com)
 
-<div align=center style="max-width: 330px; margin: 0 auto; display: flex; justify-content: space-evenly; align-items: center; gap: 20px; flex-wrap: wrap">
-  <a href="https://linkedin.com/in/youssef-hamed-helmy" target="_blank">
-    <img src="./assets/linkedin.png" width=50 />
-  </a>
-  <a href="#">
-    <img src="./assets/github.png" width=50 />
-  </a>
-  <a href="#" target="_blank">
-    <img src="./assets/instagram.png" width=50 />
-  </a>
-  <a href="mailto:yousiefhamed1@gmail.com" target="_blank">
-    <img src="./assets/gmail.png" width=50 />
-  </a>
-  <a href="https://t.me/youssef_hamed_511" target="_blank">
-    <img src="./assets/Telegram.png" width=50 />
-  </a>
-</div>
-<br />
-<p align=center>Thanks for visiting! Let's build amazing things together. 😊</p>
+## Skills
+
+- **Programming languages**: [Assembly, RISC-V, C/C++, Java, Matlab, Julia, Python]
+- **Technologies**: [Jetson nano, ESP32, PIC18 Family, Arduino, Raspberry PI]
+- **Frameworks/Libraries**: [Robot Operating System, Opencv, TensorFlow, Pytorch, Myhdl, Ultralytics]
+- **Tools**: [Visual Studio Code, Cmake, Putty & WinSCP, Cisco Packet Tracer]
+
+Thank you for visiting my profile. If you have any questions or would like to collaborate, feel free to reach out. Happy coding!
 
 <!---
 ahmed-elgihamy/ahmed-elgihamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
