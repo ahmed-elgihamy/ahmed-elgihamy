@@ -1,4 +1,5 @@
-## Hi there 👋
+<h2> Hi, I'm Ahmed Mahmoud! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 Welcome to my GitHub profile!  
 I'm always learning, building new projects, and exploring new technologies.  
 Feel free to check out my repositories and connect with me!
