@@ -8,7 +8,7 @@ Feel free to check out my repositories and connect with me!
 
 <img width="150" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
-<br>
+
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" src="https://github.com/ahmed-elgihamy/ahmed-elgihamy/blob/main/Images/Right_Side.gif?raw=true" width=30%>
