@@ -6,8 +6,8 @@ Feel free to check out my repositories and connect with me!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software +Developer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem;Constantly+Exploring+New+Horizons;Every+Day+is+a+New+Opportunity+to+Learn+and+Grow;Innovative+Solutions,+Driven+by+Technology" alt="Typing SVG" /></a>
 </p>
 
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-<br><br>
+<img width="150" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" src="https://github.com/ahmed-elgihamy/ahmed-elgihamy/blob/main/Images/Right_Side.gif?raw=true" width=30%>
