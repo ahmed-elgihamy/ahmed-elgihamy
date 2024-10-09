@@ -55,7 +55,10 @@ Feel free to check out my repositories and connect with me!
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-
+&emsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+</a>
 
 
 </p>
@@ -74,10 +77,28 @@ Feel free to check out my repositories and connect with me!
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+
 &emsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+<a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
 </a>
+&emsp; 
+ <a href="https://jquery.com/" target="_blank">
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
+</a>
+ &emsp;
+<a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+</a>
+&emsp;
+<a href="https://sass-lang.com/" target="_blank">
+    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-%23C6538C.svg?style=plastic&logo=sass&logoColor=white">
+</a>
+ &emsp;
+<a href="https://sass-lang.com/" target="_blank">
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=plastic&logo=sass&logoColor=white">
+</a>
+	  
 </p>
 
 
