@@ -14,7 +14,7 @@ Feel free to check out my repositories and connect with me!
 <img align="right" src="https://github.com/ahmed-elgihamy/ahmed-elgihamy/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 
-<br>
+<br><br>
 - 👨‍💻 I'm a Software Engineer 
 - :school: I graduated from the Faculty of Business, BIS Department, Alexandria University.
 - :computer: I have experience in programming and development.
