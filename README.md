@@ -24,8 +24,8 @@ Feel free to check out my repositories and connect with me!
 - :computer: I have experience in programming and development.
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 I'm Always learning new things
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.).
-- :boom: You can visit [MY WEBSITE](https:).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PWpPgF31MXUPivH5w72fhRXzBaFHw2Sy/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://drive.google.com/file/d/1PWpPgF31MXUPivH5w72fhRXzBaFHw2Sy/view?usp=sharing).
 <br>
 
 
