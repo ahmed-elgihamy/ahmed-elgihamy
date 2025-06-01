@@ -7,7 +7,6 @@ Feel free to check out my repositories and connect with me!
 </p>
 # Welcome to My Project 👋
  -->
-# Welcome to My Project 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&width=600&repeat=true&lines=Passionate+Software+Developer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem;Constantly+Exploring+New+Horizons;Every+Day+is+a+New+Opportunity+to+Learn+and+Grow;Innovative+Solutions,+Driven+by+Technology)
 
